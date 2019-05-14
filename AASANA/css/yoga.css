@@ -1,0 +1,65 @@
+		.mp{margin: 0;padding: 0;}
+		ul li{list-style: none;}
+		.banner{padding: 0;margin: 0; width: 100%;}
+		.banner img{width: 100%;}
+		.nav-tool{ justify-content: flex-end;}
+		.nav-tool nav{margin-right: 1.875rem; display: flex;justify-content: flex-end;}
+		.nav-tool nav a{padding-right:5.25rem;color: #BFB0E7;text-decoration: none;}
+		.header .top{width: 100%;height: 95px;position: fixed;top: 0;left: 0;display: flex;line-height: 95px;}
+		.nav-tool .tool a{padding-left: 0.625rem;color: #BFB0E7;text-decoration: none;}
+				/* YOGA US WAY OF LIFE */
+		.way_life{background-image: url('../images/way_of_life_03.png');height: 985px;}
+		/* 公共样式 start */
+		.title{display: flex;flex-direction: column;align-items: center;}
+		.title img{padding-top: 20px;}
+		.title h5{margin: 15px 0;font-size: 30px;color: #7B6CD5;}
+		.title p{max-width:1030px;text-align: center;}
+		/* 公共样式 end */
+		.way_life_main{margin-top:15.813rem;}
+		.way_life_main .content_life,.content_right{display: flex;flex-direction: column;}
+		.way_life_main .content_life li{display: flex;justify-content:center;margin-bottom: 6rem;}
+		.way_life_main  li{display: flex;justify-content:center;margin-bottom: 6rem;}
+		.way_life_main p{width: 280px;}
+		.way_life_main h6{text-align: center;color: #7B6CD5;font-size: 18px;}
+		
+		
+		.our_main{margin-top: 30px;}
+		.classes_content{display: flex;justify-content: center;}
+		.class_main{display: flex;align-items: center;flex-direction: column; background: #E8E3F5; text-align: center;}
+		.class_main .top{display: flex;align-items: center;flex-direction: column;}
+		.class_main .top p{max-width: 290px;align-content: }
+		.class_main .top  h6{color: #A59AE2;font-size: 24px;margin-top: 30px;}
+		.class_main .bottom{display: flex;flex-direction: column;}
+		.class_main .bottom ul{display: flex;margin-top: 10px;margin-right: 45px;}
+		.class_main .bottom ul li{background: #A59AE2;margin: 5px;border-radius: 20px;}
+		.class_main .bottom ul li a{text-decoration: none; padding: 10px; color: #EBEEEF;}
+		.class_main .bottom span{color: #A59AE2;font-size: 18px;padding-bottom: 20px;}
+		.book_class p{border:1px solid #EA8FCA;background: #EA8FCA;border-radius: 50px;align-content: center;width: 255px;margin-top:53px;text-align: center;margin:53px auto ;padding: 15px;color: #FFFFFF;font-size: 20px;}
+		.book_class a{text-decoration: none;}
+
+		.studio{width: 100%;}
+		.studio img{width: 100% ;}
+		
+		
+		.instructors_row{display: flex;justify-content: center;margin-top: 20px;}
+		.instructors_mian{display:flex;flex-direction: column;text-align: center;display: block;}
+		.instructors_mian .tool i{font-size: 30px;color: #F9DDEF;margin: 5px;}
+		.instructors_mian p{color: #7B6CD5;margin-top: 10px;font-size: 20px;}
+
+		
+		
+		
+		
+		.footer{margin: 0;padding: 0;}
+		.footer_content{background: #3C3B4B;max-height: 515px; display: flex;flex-direction: column;align-items: center;}
+		.footer_main{width: 420px;display: flex;text-justify: center;flex-direction: column;text-align: center;}
+		.footer_main img{align-self: center;}
+		.footer_main p{color:#D3D3D6; font-size: 15px;}
+		.footer_main h6{color:#D3D3D6;font-size: 22px ;}
+		.footer_main input{width: 380px;height: 30px;border: 1px solid #D3D3D6;border-radius: 20px;background: #504F5D;}
+		.footer_main input[cellpadding]{text-align: center;}
+		.footer_main span i{font-size: 40px;color: #6E65AD;padding-left: 20px;}
+		.footer-bom_main{height: 60px;background: #654E77;}
+		.footer-bom_main ul{display: flex;justify-content: center;}
+		.footer-bom_main ul li{line-height: 60px;margin-right: 20px;color: #CAC5CF;}
+		.footer-bom_main ul li a{text-decoration: none;color: #CAC5CF;}
